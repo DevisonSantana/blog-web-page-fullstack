@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Projeto Full Stack Blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch banco.json --port 3000"
+  },
+  "author": "devison",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
